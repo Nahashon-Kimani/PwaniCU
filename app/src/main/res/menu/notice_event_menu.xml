@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/category_event"
+        android:icon="@drawable/event"
+        android:orderInCategory="100"
+        android:title="@string/event" />
+
+    <item
+        android:id="@+id/category_notice"
+        android:icon="@drawable/notice"
+        android:orderInCategory="102"
+        android:title="@string/notice" />
+    <item
+        android:id="@+id/category_all"
+        android:icon="@drawable/about_cu"
+        android:orderInCategory="101"
+        android:title="@string/all" />
+</menu>

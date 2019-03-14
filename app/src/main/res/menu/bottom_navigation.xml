@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/next_item"
+        android:icon="@drawable/previous"
+        android:orderInCategory="100"
+        android:title="@string/next" />
+    <item
+        android:id="@+id/previous_item"
+        android:icon="@drawable/next"
+        android:orderInCategory="101"
+        android:title="@string/previous" />
+</menu>

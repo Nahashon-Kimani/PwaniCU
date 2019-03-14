@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/about_cu"
+            android:icon="@drawable/about_cu"
+            android:title="@string/about_cu" />
+        <item
+            android:id="@+id/theme_verse"
+            android:icon="@drawable/theme_verse"
+            android:title="@string/theme_verse" />
+        <item
+            android:id="@+id/bs_registration"
+            android:icon="@drawable/register"
+            android:title="@string/bs_registration" />
+    </group>
+
+
+    <item android:title="@string/preferences">
+        <menu>
+            <item
+                android:id="@+id/night_mode"
+                android:icon="@drawable/night"
+                android:title="@string/night_mode"
+                app:actionLayout="@layout/switch_item"
+                app:showAsAction="always" />
+            <item
+                android:id="@+id/app_settings"
+                android:icon="@drawable/setting"
+                android:title="@string/setting" />
+        </menu>
+
+    </item>
+
+
+    <item android:title="@string/connect">
+        <menu>
+            <item
+                android:id="@+id/social_media"
+                android:icon="@drawable/social"
+                android:title="@string/social_media" />
+            <item
+                android:id="@+id/help_and_feedback"
+                android:icon="@drawable/feedback"
+                android:title="@string/help_and_feedback" />
+            <item
+                android:id="@+id/share_app"
+                android:icon="@drawable/share"
+                android:title="@string/share_app" />
+        </menu>
+    </item>
+
+</menu>

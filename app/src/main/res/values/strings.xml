@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Peter</string>
+    <string name="today">Today</string>
+    <string name="notice">Notice</string>
+    <string name="discuss">Discuss</string>
+    <string name="about_cu">About CU</string>
+    <string name="theme_verse">Theme Verse</string>
+    <string name="bs_registration">BS Registration</string>
+    <string name="connect">Connect</string>
+    <string name="social_media">Social Media</string>
+    <string name="help_and_feedback">Help and Feedback</string>
+    <string name="share_app">Share App</string>
+    <string name="pu_cu">Pwani University CU</string>
+    <string name="email">pwanicu@gmail.com</string>
+    <string name="cu_logo">CU LOGO</string>
+    <string name="navigation_drawer_open">Open navigation Drawer</string>
+    <string name="navigation_drawer_close">Close navigation Drawer</string>
+    <string name="today_verse">James 3:17</string>
+    <string name="narration"><b>Verse Narration\n</b> the wisdom that comes from heaven is first pure; then peace-loving, considerate,
+                             submissive, full of mercy and good fruit, impartial and sincere. </string>
+    <string name="today_program">Today Program</string>
+    <string name="today_p">1. Morning Devotion from 5\-6am\n
+                           2. Lunch Hour Prayers behind Runda.\n
+                           3. Evening Prayers at 5pm behind Runda.\n
+                           4. Best-P from 8pm at GS1.</string>
+    <string name="about_pucu">Pwani University Christian Union is a body of Christian students from Pwani University
+        bound together by a common faith in the only God and joined together with the heavenly calling of Christ
+        according to the Holy Scriptures. Our doctrinal basis as the Christian body is the fundamental truth about
+        Christianity and we believe in the unity of the Father, the Son, and the Holy Spirit in the Godhead,
+        the Sovereignty of God in the creation, revelation, redemption, and final judgment and the divine inspiration
+        and entire truthfulness of the Holy Scriptures originally given and its supreme authority in all matters of
+        faith and conduct. We engage in evangelism, open air crusades and outreach missions and ministries as a
+        fulfillment of the great commission the main purpose of them all being able to reach as many believers as possible.
+        Through our daily and weekly activities such as fellowships and bible study as the Christian Organization we are able
+        to form healthy relationships entailing discipleship, mentor-ship, academic assistance and prayer partners e.g.
+        through fasting. Our aims and objectives as the Christian body within larger Pwani University main campus include:</string>
+    <string name="setting">Setting</string>
+    <string name="preferences">Preferences</string>
+    <string name="url1">Hey check out PUCU android application at: https://</string>
+    <string name="version">NIV</string>
+    <string name="semester_name">Semester Name</string>
+    <string name="sun">Sunday</string>
+    <string name="mon">Monday</string>
+    <string name="tue">Tuesday</string>
+    <string name="wed">Wednesday</string>
+    <string name="thu">Thursday</string>
+    <string name="fri">Friday</string>
+    <string name="sat">Saturday</string>
+    <string name="read_more">Read more.</string>
+    <string name="day_mode">Light</string>
+    <string name="night_mode">Dark</string>
+    <string name="notice_title">Notice Title</string>
+    <string name="notice_desc">We will have ushers serve the whole service.</string>
+    <string name="notice_date">17/3/2019</string>
+    <string name="notice_category">Notice</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="event">Event</string>
+    <string name="all">All</string>
+    <string name="year">2019</string>
+    <array name="test">
+        <item>One</item>
+        <item>Two</item>
+        <item>THree</item>
+        <item>Four</item>
+    </array>
+</resources>
